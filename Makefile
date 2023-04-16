@@ -22,7 +22,7 @@ CUDD        := $(TOP)/cudd-2.4.2/
 CUDDVER     = 0x020400
 PYTHON_LOC  := /usr
 # Change the following to lib64 for 64-bit architectures
-LIB_DIR     := lib
+LIB_DIR     := lib64
 #PYTHON_LOC  := /usr
 PYTHON_VER  := python2.7
 SWIG	    := swig
